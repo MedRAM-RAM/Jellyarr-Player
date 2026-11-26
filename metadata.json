@@ -1,0 +1,6 @@
+{
+  "name": "CineFin",
+  "description": "تطبيق أندرويد متكامل لاستعراض ومشاهدة الأفلام والمسلسلات من خادم Jellyfin بتجربة سينمائية متقنة وإعدادات شاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

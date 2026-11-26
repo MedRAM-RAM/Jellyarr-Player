@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CineFin</string>
+    <string name="cd_hero_banner">خلفية السينما الرئيسية</string>
+    <string name="cd_empty_library">صورة مكتبة فارغة</string>
+    <string name="cd_poster">ملصق العمل</string>
+    <string name="cd_backdrop">صورة الغلاف</string>
+    <string name="cd_back">رجوع</string>
+    <string name="cd_play">تشغيل</string>
+    <string name="cd_pause">إيقاف مؤقت</string>
+    <string name="cd_favorite">إضافة للمفضلة</string>
+    <string name="cd_watched">تحديد كمشاهد</string>
+    <string name="cd_settings">الإعدادات</string>
+    <string name="cd_search">بحث</string>
+</resources>
