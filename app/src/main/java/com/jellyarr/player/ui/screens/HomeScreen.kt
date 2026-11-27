@@ -241,7 +241,7 @@ fun HomeScreen(vm: HomeViewModel = viewModel()) {
                     landscape = row.landscape,
                     onClick = { nav.open(it.target) },
                     action = row.catalogLink?.let { link ->
-                        {
+                        @Composable {
                             Row(
                                 Modifier.clip(RoundedCornerShape(8.dp)).clickable { nav.catalog(link.addonUrl, link.type, link.id, link.name) }
                                     .padding(horizontal = 6.dp, vertical = 2.dp),
