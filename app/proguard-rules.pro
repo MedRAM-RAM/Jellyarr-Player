@@ -19,3 +19,8 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+# Nuvio WebView bridge
+-keepclassmembers class com.jellyarr.player.data.nuvio.NuvioEngine$Bridge {
+    @android.webkit.JavascriptInterface <methods>;
+}

@@ -1,6 +1,6 @@
 {
-  "name": "CineFin",
-  "description": "تطبيق أندرويد متكامل لاستعراض ومشاهدة الأفلام والمسلسلات من خادم Jellyfin بتجربة سينمائية متقنة وإعدادات شاملة.",
+  "name": "Jellyarr",
+  "description": "مشغّل أندرويد يجمع مكتبة Jellyfin وإضافات Stremio (مثل AIOStreams) ومزوّدات Nuvio بواجهة احترافية.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }

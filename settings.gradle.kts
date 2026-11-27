@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "CineFin"
+rootProject.name = "Jellyarr"
 
 include(":app")
